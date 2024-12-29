@@ -1,3 +1,16 @@
-# Dacon-Projects
+# 전기차 가격 예측 해커톤: 데이터로 EV를 읽다!
+
+## 개요
+이번 해커톤에서 전기차의 다양한 데이터를 바탕으로 가격을 예측하는 AI 알고리즘을 개발하는 것을 목표
+
+## 데이터 설명
+전기차와 관련된 데이터를 활용하여 전기차 가격을 예측하는 AI 알고리즘을 개발
+
+## 접근 방법
+- **스케일링**: 원핫인코딩, 표준화
+- **모델링**: 그라디언트 부스팅(Gradient Boosting)
+- **평가**: RMSE
+
+
 ## Dacon 대회 링크
-이 프로젝트는 [Dacon 대회](https://dacon.io/competitions/official/236424/overview/description)를 기반으로 하며, 대회의 목표는 [대회 설명](https://dacon.io/competitions/official/236424/overview/description)입니다. 이 링크를 통해 대회에 대한 자세한 내용을 확인할 수 있습니다.
+자세한 내용은 [Dacon 대회 페이지](https://dacon.io)를 방문하시면 확인할 수 있습니다.
